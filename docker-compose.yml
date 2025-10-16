@@ -1,0 +1,72 @@
+version: '3.8'
+
+services:
+  # PostgreSQL database with pgvector extension
+  postgres:
+    image: ankane/pgvector:latest
+    container_name: ajatus-postgres
+    environment:
+      POSTGRES_DB: ajatuskumppani
+      POSTGRES_USER: ajatus
+      POSTGRES_PASSWORD: ajatus_dev_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - ajatus-network
+
+  # Redis for caching and message queuing
+  redis:
+    image: redis:7-alpine
+    container_name: ajatus-redis
+    ports:
+      - "6379:6379"
+    networks:
+      - ajatus-network
+
+  # AjatusServer - FastAPI backend
+  ajatus-server:
+    build:
+      context: ./ajatus-server
+      dockerfile: Dockerfile
+    container_name: ajatus-server
+    environment:
+      DATABASE_URL: postgresql://ajatus:ajatus_dev_password@postgres:5432/ajatuskumppani
+      REDIS_URL: redis://redis:6379
+      SECRET_KEY: dev_secret_key_change_in_production
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+      - redis
+    volumes:
+      - ./ajatus-server:/app
+    networks:
+      - ajatus-network
+    command: uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload
+
+  # AjatusUI - React Native Web
+  ajatus-ui:
+    build:
+      context: ./ajatus-ui
+      dockerfile: Dockerfile
+    container_name: ajatus-ui
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./ajatus-ui:/app
+      - /app/node_modules
+    networks:
+      - ajatus-network
+    environment:
+      - REACT_APP_API_URL=http://localhost:8000
+    command: yarn start
+
+volumes:
+  postgres_data:
+
+networks:
+  ajatus-network:
+    driver: bridge
+

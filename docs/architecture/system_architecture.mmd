@@ -1,0 +1,29 @@
+graph TD
+    subgraph User_Interface[User Interface]
+        A[AjatusUI - React Native]
+    end
+
+    subgraph Backend_Services[Backend Services]
+        B[AjatusServer - FastAPI]
+        C[AjatusMemory - pgvector]
+        D[AjatusCore - LLM]
+    end
+
+    subgraph Decentralized_Network[Decentralized Network]
+        E[AjatusNode - DePIN]
+        F[AjatusToken - ERC20]
+    end
+
+    subgraph Autonomous_Agents[Autonomous Agents]
+        G[AjatusAgents]
+    end
+
+    A -->|REST API / WebSockets| B
+    B -->|Orchestrates| G
+    B -->|Stores/Retrieves| C
+    B -->|Sends prompts| D
+    D -->|Returns completions| B
+    E -->|Provides resources| D
+    E -->|Mines| F
+    G -->|Use Tools| B
+
