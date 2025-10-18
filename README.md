@@ -1,10 +1,20 @@
 # Ajatuskumppani – The Open Core AI Project by Pinnacore
 
-**Suomalainen avoin tekoäly, joka oppii tuntemaan sinut.**
+<p align="center">
+  <img src="assets/logos/ajatuskumppani-logo-main.png" alt="Ajatuskumppani Logo" width="400"/>
+</p>
 
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?label=Discord&logo=discord)](https://discord.gg/YOUR_INVITE_LINK) 
-[![GitHub stars](https://img.shields.io/github/stars/pinnacore-ai/ajatuskumppani?style=social)](https://github.com/pinnacore-ai/ajatuskumppani/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<p align="center">
+  <strong>Suomalainen avoin tekoäly, joka oppii tuntemaan sinut.</strong>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/YOUR_INVITE_LINK"><img src="https://img.shields.io/discord/YOUR_DISCORD_ID?label=Discord&logo=discord" alt="Discord"></a>
+  <a href="https://github.com/pinnacore-ai/ajatuskumppani/stargazers"><img src="https://img.shields.io/github/stars/pinnacore-ai/ajatuskumppani?style=social" alt="GitHub stars"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
+</p>
+
+---
 
 **Ajatuskumppani** (in English: **ThoughtMate OS**) is an open-source, community-driven AI platform built on three core principles:
 
@@ -113,7 +123,11 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
-**Built in Finland. Open to the world.** 🇫🇮
+<p align="center">
+  <strong>Built in Finland. Open to the world.</strong> 🇫🇮
+</p>
 
-*This is the project that will define Pinnacore AI's legacy. This is The ThoughtMate Revolution.*
+<p align="center">
+  <em>This is the project that will define Pinnacore AI's legacy. This is The ThoughtMate Revolution.</em>
+</p>
 
