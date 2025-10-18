@@ -242,9 +242,10 @@ docker-compose up -d
 
 ## Getting Help
 
+- **Telegram**: Join our community at https://t.me/ajatuskumppani
 - **Issues**: Report bugs or request features on [GitHub Issues](https://github.com/Pinnacore-AI/ajatuskumppani/issues)
 - **Discussions**: Ask questions on [GitHub Discussions](https://github.com/Pinnacore-AI/ajatuskumppani/discussions)
-- **Email**: Contact us at gronmark@pinnacore.ai
+- **Email**: Contact us at ajatuskumppani@pinnacore.ai
 
 ---
 

@@ -93,10 +93,11 @@ git clone https://github.com/pinnacore-ai/ajatus-core.git
 
 This is a community-driven project. We welcome contributions of all kinds, from code and documentation to design and testing.
 
-- **Join our [Discord](https://discord.gg/YOUR_INVITE_LINK)** to chat with the community and developers.
-- **Read our [Contribution Guidelines](CONTRIBUTING.md)** to get started.
-- **Check out the [open issues](https://github.com/Pinnacore-AI/ajatuskumppani/issues)** to find a task to work on.
-- **Read the [FAQ](FAQ.md)** for common questions.
+- **Join our [Telegram](https://t.me/ajatuskumppani)** - Main community hub
+- **Join our [Discord](https://discord.gg/YOUR_INVITE_LINK)** - Coming soon
+- **Read our [Contribution Guidelines](CONTRIBUTING.md)** to get started
+- **Check out the [open issues](https://github.com/Pinnacore-AI/ajatuskumppani/issues)** to find a task to work on
+- **Read the [FAQ](FAQ.md)** for common questions
 
 ## 🗺️ Roadmap
 
@@ -117,9 +118,13 @@ See [LICENSE](LICENSE) for details.
 
 ## 📧 Contact
 
-- **Email**: gronmark@pinnacore.ai
+- **Telegram**: https://t.me/ajatuskumppani
+- **Lead Developer**: kryptonaatti@pinnacore.ai
+- **General Inquiries**: ajatuskumppani@pinnacore.ai
 - **Website**: https://pinnacore.ai
 - **GitHub**: https://github.com/Pinnacore-AI
+
+For more contact options, see [CONTACT.md](CONTACT.md).
 
 ---
 

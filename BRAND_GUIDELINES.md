@@ -183,7 +183,8 @@ Built in Finland. Open to the world. 🇫🇮
 ## Questions?
 
 If you have questions about brand usage or need custom assets, contact:
-- **Email**: gronmark@pinnacore.ai
+- **Telegram**: https://t.me/ajatuskumppani
+- **Email**: ajatuskumppani@pinnacore.ai
 - **GitHub**: https://github.com/Pinnacore-AI
 
 ---

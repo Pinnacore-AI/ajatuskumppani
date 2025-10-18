@@ -143,10 +143,11 @@ Yes! Community translations are welcome. The i18n infrastructure supports multip
 
 ### How can I join the community?
 
+- **Telegram**: https://t.me/ajatuskumppani - Main community hub
 - **Discord**: [Coming soon]
-- **Telegram**: [Coming soon]
 - **GitHub Discussions**: https://github.com/Pinnacore-AI/ajatuskumppani/discussions
-- **Email**: gronmark@pinnacore.ai
+- **Lead Developer**: kryptonaatti@pinnacore.ai
+- **General Inquiries**: ajatuskumppani@pinnacore.ai
 
 ### Is there a Code of Conduct?
 
@@ -171,8 +172,8 @@ If your question isn't answered here:
 
 1. Check the [documentation](docs/)
 2. Search [GitHub Discussions](https://github.com/Pinnacore-AI/ajatuskumppani/discussions)
-3. Ask on Discord or Telegram
-4. Email us at gronmark@pinnacore.ai
+3. Join our [Telegram](https://t.me/ajatuskumppani) and ask the community
+4. Email us at ajatuskumppani@pinnacore.ai
 
 ---
 
