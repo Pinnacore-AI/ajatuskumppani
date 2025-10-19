@@ -144,9 +144,10 @@ Yes! Community translations are welcome. The i18n infrastructure supports multip
 ### How can I join the community?
 
 - **Telegram**: https://t.me/ajatuskumppani - Main community hub
-- **Discord**: [Coming soon]
+- **Discord**: https://discord.gg/z53hngJHd - Technical discussions
 - **GitHub Discussions**: https://github.com/Pinnacore-AI/ajatuskumppani/discussions
-- **Lead Developer**: kryptonaatti@pinnacore.ai
+- **Founder & CEO**: gronmark@pinnacore.ai (www.pinnacore.ai)
+- **Web3 Developer**: kryptonaatti@pinnacore.ai
 - **General Inquiries**: ajatuskumppani@pinnacore.ai
 
 ### Is there a Code of Conduct?

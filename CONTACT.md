@@ -1,59 +1,76 @@
-# Contact Information
+# Contact Information / Yhteystiedot
 
-## Ajatuskumppani Project
+*[English](#english) | [Suomi](#suomi)*
 
-### Community Channels
+---
 
-- **Telegram**: https://t.me/ajatuskumppani
-- **Discord**: [Coming soon]
+<a name="english"></a>
+## 🌐 English
+
+### Ajatuskumppani Project
+
+#### Leadership
+
+**Founder & CEO**
+- **Name**: Gronmark
+- **Company**: Pinnacore AI (www.pinnacore.ai)
+- **Email**: gronmark@pinnacore.ai
+- **Role**: Project lead, business development, strategic partnerships
+
+**Web3 Developer & Moderator**
+- **Name**: Kryptonaatti
+- **Email**: kryptonaatti@pinnacore.ai
+- **Role**: Blockchain development, Web3 partnerships, community moderation
+
+#### Community Channels
+
+- **Telegram**: https://t.me/ajatuskumppani - Main community hub (Finnish & English)
+- **Discord**: https://discord.gg/z53hngJHd - Technical discussions and support
 - **GitHub Discussions**: https://github.com/Pinnacore-AI/ajatuskumppani/discussions
 
-### Email Contacts
+#### Email Contacts
 
-#### Development & Technical
-- **Lead Developer & Moderator**: kryptonaatti@pinnacore.ai
-- For technical questions, bug reports, and development discussions
+**General Inquiries**
+- **Email**: ajatuskumppani@pinnacore.ai
+- For general questions, media inquiries, and other requests
 
-#### General Inquiries
-- **General Contact**: ajatuskumppani@pinnacore.ai
-- For general questions, partnerships, and other inquiries
+**Technical Support**
+- **Email**: kryptonaatti@pinnacore.ai
+- For bug reports, technical questions, and development discussions
+
+**Business & Partnerships**
+- **Email**: gronmark@pinnacore.ai
+- For partnership proposals, investment inquiries, and business development
 
 ### Social Media
 
 - **GitHub Organization**: https://github.com/Pinnacore-AI
 - **Website**: https://pinnacore.ai
+- **Twitter/X**: [Coming soon]
 
 ### Web3 Presence
 
 Ajatuskumppani is building a strong presence in the Web3 ecosystem:
 
 #### Blockchain & DePIN
-- **AJT Token**: ERC-20 utility token on Ethereum
+- **AJT Token**: SPL Token on Solana blockchain
 - **Smart Contracts**: https://github.com/Pinnacore-AI/ajatus-token
 - **DePIN Network**: Decentralized Physical Infrastructure Network for AI compute
 
 #### Web3 Communities
-- **Telegram**: https://t.me/ajatuskumppani - Main community hub
-- **Discord**: [Coming soon] - Technical discussions and governance
-- **DAO Governance**: [Planned] - Community-driven decision making
+- **Telegram**: https://t.me/ajatuskumppani - Web3 discussions, token updates
+- **Discord**: https://discord.gg/z53hngJHd - DAO governance, technical support
 
-#### Token & Economics
-- **Token Symbol**: AJT
-- **Token Type**: ERC-20 Utility Token
-- **Use Cases**: 
-  - Compute resource payments
-  - Staking rewards
-  - Governance voting
-  - Premium features access
+#### Seeking Web3 Partnerships
 
-#### DeFi Integration
-- **DEX Listings**: [Planned]
-- **Liquidity Pools**: [Planned]
-- **Staking Platform**: [Planned]
+We're actively looking for partnerships with:
+- Solana ecosystem projects
+- DePIN infrastructure providers
+- DeFi protocols (DEXs, lending, staking)
+- AI x Web3 projects
+- Web3 VCs and investors
 
-#### NFT & Digital Assets
-- **Node NFTs**: [Planned] - NFT-based node ownership
-- **Achievement NFTs**: [Planned] - Community contribution rewards
+**Contact**: ajatuskumppani@pinnacore.ai or gronmark@pinnacore.ai
 
 ### Developer Resources
 
@@ -69,12 +86,113 @@ Ajatuskumppani is building a strong presence in the Web3 ecosystem:
 ### Media & Press
 
 For media inquiries and press releases:
-- **Email**: ajatuskumppani@pinnacore.ai
+- **Email**: gronmark@pinnacore.ai or ajatuskumppani@pinnacore.ai
 - **Press Kit**: [Coming soon]
+
+---
+
+<a name="suomi"></a>
+## 🇫🇮 Suomi
+
+### Ajatuskumppani-projekti
+
+#### Johto
+
+**Perustaja & Toimitusjohtaja**
+- **Nimi**: Gronmark
+- **Yritys**: Pinnacore AI (www.pinnacore.ai)
+- **Sähköposti**: gronmark@pinnacore.ai
+- **Rooli**: Projektipäällikkö, liiketoimintakehitys, strategiset kumppanuudet
+
+**Web3-kehittäjä & Moderaattori**
+- **Nimi**: Kryptonaatti
+- **Sähköposti**: kryptonaatti@pinnacore.ai
+- **Rooli**: Blockchain-kehitys, Web3-kumppanuudet, yhteisön moderointi
+
+#### Yhteisökanavat
+
+- **Telegram**: https://t.me/ajatuskumppani - Pääyhteisö (suomi & englanti)
+- **Discord**: https://discord.gg/z53hngJHd - Tekniset keskustelut ja tuki
+- **GitHub Discussions**: https://github.com/Pinnacore-AI/ajatuskumppani/discussions
+
+#### Sähköpostiosoitteet
+
+**Yleiset tiedustelut**
+- **Sähköposti**: ajatuskumppani@pinnacore.ai
+- Yleiset kysymykset, media-tiedustelut ja muut pyynnöt
+
+**Tekninen tuki**
+- **Sähköposti**: kryptonaatti@pinnacore.ai
+- Bugi-raportit, tekniset kysymykset ja kehityskeskustelut
+
+**Liiketoiminta & Kumppanuudet**
+- **Sähköposti**: gronmark@pinnacore.ai
+- Kumppanuusehdotukset, sijoitustiedustelut ja liiketoimintakehitys
+
+### Sosiaalinen media
+
+- **GitHub-organisaatio**: https://github.com/Pinnacore-AI
+- **Verkkosivusto**: https://pinnacore.ai
+- **Twitter/X**: [Tulossa]
+
+### Web3-läsnäolo
+
+Ajatuskumppani rakentaa vahvaa läsnäoloa Web3-ekosysteemissä:
+
+#### Blockchain & DePIN
+- **AJT Token**: SPL Token Solana-blockchainissa
+- **Älysopimukset**: https://github.com/Pinnacore-AI/ajatus-token
+- **DePIN-verkko**: Hajautettu fyysinen infrastruktuuriverkko AI-laskentaan
+
+#### Web3-yhteisöt
+- **Telegram**: https://t.me/ajatuskumppani - Web3-keskustelut, token-päivitykset
+- **Discord**: https://discord.gg/z53hngJHd - DAO-hallinto, tekninen tuki
+
+#### Etsimme Web3-kumppaneita
+
+Etsimme aktiivisesti kumppanuuksia:
+- Solana-ekosysteemin projektit
+- DePIN-infrastruktuuritarjoajat
+- DeFi-protokollat (DEX:it, lainaus, staking)
+- AI x Web3 -projektit
+- Web3 VC:t ja sijoittajat
+
+**Yhteys**: ajatuskumppani@pinnacore.ai tai gronmark@pinnacore.ai
+
+### Kehittäjäresurssit
+
+- **Dokumentaatio**: https://github.com/Pinnacore-AI/ajatuskumppani
+- **API-referenssi**: [Tulossa]
+- **SDK**: [Tulossa]
+
+### Raportoi ongelmista
+
+- **Bugi-raportit**: https://github.com/Pinnacore-AI/ajatuskumppani/issues
+- **Tietoturvaongelmat**: kryptonaatti@pinnacore.ai (käytä PGP-salausta arkaluonteisiin raportteihin)
+
+### Media & Lehdistö
+
+Media-tiedusteluihin ja lehdistötiedotteisiin:
+- **Sähköposti**: gronmark@pinnacore.ai tai ajatuskumppani@pinnacore.ai
+- **Lehdistöpaketti**: [Tulossa]
+
+---
+
+## 📊 Quick Reference / Pikaohjeet
+
+| Purpose / Tarkoitus | Contact / Yhteystieto |
+|---------------------|----------------------|
+| General / Yleinen | ajatuskumppani@pinnacore.ai |
+| Business / Liiketoiminta | gronmark@pinnacore.ai |
+| Technical / Tekninen | kryptonaatti@pinnacore.ai |
+| Telegram | https://t.me/ajatuskumppani |
+| Discord | https://discord.gg/z53hngJHd |
 
 ---
 
 **Built in Finland. Open to the world.** 🇫🇮
 
-*Join the revolution: https://t.me/ajatuskumppani*
+*Join us / Liity mukaan:*
+- Telegram: https://t.me/ajatuskumppani
+- Discord: https://discord.gg/z53hngJHd
 
