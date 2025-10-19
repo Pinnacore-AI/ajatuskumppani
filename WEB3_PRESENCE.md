@@ -309,13 +309,10 @@ Etsimme aktiivisesti kumppanuuksia:
 
 ## 📞 Contact / Yhteystiedot
 
-**Founder & CEO**:
-- Gronmark (www.pinnacore.ai)
+**Founder, CEO & Developer**:
+- Grönmark (Kryptonaatti)
+- Company: Pinnacore Oy (www.pinnacore.ai)
 - Email: gronmark@pinnacore.ai
-
-**Web3 Developer**:
-- Kryptonaatti
-- Email: kryptonaatti@pinnacore.ai
 
 **Community**:
 - Telegram: https://t.me/ajatuskumppani

@@ -41,8 +41,8 @@ We're seeking strategic partners to accelerate our infrastructure development, s
 I'd love to schedule a 20-minute call to discuss how we can work together.
 
 Best regards,  
-**Gronmark**  
-Founder & CEO, Pinnacore AI  
+**Grönmark (Kryptonaatti)**  
+Founder, CEO & Developer, Pinnacore Oy  
 gronmark@pinnacore.ai | www.pinnacore.ai  
 https://github.com/Pinnacore-AI/ajatuskumppani
 
@@ -197,15 +197,10 @@ Our AI models require significant compute power for:
 
 ### Team
 
-**Gronmark** - Founder & CEO
-- Background: [Add your background]
-- Role: Strategy, partnerships, fundraising
+**Grönmark (Kryptonaatti)** - Founder, CEO & Developer
+- Company: Pinnacore Oy
+- Role: Everything - strategy, development, partnerships, fundraising, blockchain
 - Contact: gronmark@pinnacore.ai
-
-**Kryptonaatti** - Web3 Developer
-- Background: [Add background]
-- Role: Blockchain, smart contracts, DePIN
-- Contact: kryptonaatti@pinnacore.ai
 
 **Advisors & Partners:**
 - [To be announced]
@@ -263,7 +258,7 @@ Our AI models require significant compute power for:
   - 5% Marketing and community
 
 **What investors get:**
-- Equity stake in Pinnacore AI
+- Equity stake in Pinnacore Oy
 - AJT token allocation (from Team & Advisors pool)
 - Board seat / Advisory role (for strategic investors)
 - Co-branding opportunities
@@ -294,6 +289,8 @@ Our AI models require significant compute power for:
 4. **Close**: Fund transfer and partnership kickoff
 
 **Contact:**
+- **Name**: Grönmark (Kryptonaatti)
+- **Company**: Pinnacore Oy
 - **Email**: gronmark@pinnacore.ai
 - **Website**: www.pinnacore.ai
 - **GitHub**: https://github.com/Pinnacore-AI/ajatuskumppani

@@ -12,8 +12,8 @@
 #### Leadership
 
 **Founder, CEO & Developer**
-- **Name**: Joni Grönmark (Kryptonaatti)
-- **Company**: Pinnacore AI (www.pinnacore.ai)
+- **Name**: Grönmark (Kryptonaatti)
+- **Company**: Pinnacore Oy (www.pinnacore.ai)
 - **Email**: gronmark@pinnacore.ai
 - **Role**: Everything - project lead, development, business, partnerships, community
 
@@ -93,16 +93,11 @@ For media inquiries and press releases:
 
 #### Johto
 
-**Perustaja & Toimitusjohtaja**
-- **Nimi**: Gronmark
-- **Yritys**: Pinnacore AI (www.pinnacore.ai)
+**Perustaja, Toimitusjohtaja & Kehittäjä**
+- **Nimi**: Grönmark (Kryptonaatti)
+- **Yritys**: Pinnacore Oy (www.pinnacore.ai)
 - **Sähköposti**: gronmark@pinnacore.ai
-- **Rooli**: Projektipäällikkö, liiketoimintakehitys, strategiset kumppanuudet
-
-**Web3-kehittäjä & Moderaattori**
-- **Nimi**: Kryptonaatti
-- **Sähköposti**: kryptonaatti@pinnacore.ai
-- **Rooli**: Blockchain-kehitys, Web3-kumppanuudet, yhteisön moderointi
+- **Rooli**: Kaikki - projektipäällikkö, kehitys, liiketoiminta, kumppanuudet, yhteisö
 
 #### Yhteisökanavat
 

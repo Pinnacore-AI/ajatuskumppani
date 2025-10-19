@@ -41,8 +41,8 @@ Etsimme strategisia kumppaneita infrastruktuurin kehityksen nopeuttamiseen, erit
 Haluaisin sopia 20 minuutin puhelun keskustellaksemme yhteistyöstä.
 
 Ystävällisin terveisin,  
-**Gronmark**  
-Perustaja & Toimitusjohtaja, Pinnacore AI  
+**Grönmark (Kryptonaatti)**  
+Perustaja, Toimitusjohtaja & Kehittäjä, Pinnacore Oy  
 gronmark@pinnacore.ai | www.pinnacore.ai  
 https://github.com/Pinnacore-AI/ajatuskumppani
 
@@ -197,15 +197,10 @@ AI-mallimme vaativat merkittävää laskentavoimaa:
 
 ### Tiimi
 
-**Gronmark** - Perustaja & Toimitusjohtaja
-- Tausta: [Lisää taustasi]
-- Rooli: Strategia, kumppanuudet, rahoitus
+**Grönmark (Kryptonaatti)** - Perustaja, Toimitusjohtaja & Kehittäjä
+- Yritys: Pinnacore Oy
+- Rooli: Kaikki - strategia, kehitys, kumppanuudet, rahoitus, blockchain
 - Yhteystieto: gronmark@pinnacore.ai
-
-**Kryptonaatti** - Web3-kehittäjä
-- Tausta: [Lisää tausta]
-- Rooli: Blockchain, älysopimukset, DePIN
-- Yhteystieto: kryptonaatti@pinnacore.ai
 
 **Neuvonantajat & Kumppanit:**
 - [Ilmoitetaan myöhemmin]
@@ -263,7 +258,7 @@ AI-mallimme vaativat merkittävää laskentavoimaa:
   - 5% Markkinointi ja yhteisö
 
 **Mitä sijoittajat saavat:**
-- Osakeosuus Pinnacore AI:ssa
+- Osakeosuus Pinnacore Oy:ssä
 - AJT-token-allokaatio (Team & Advisors -poolista)
 - Hallituspaikka / Neuvonantajarooli (strategisille sijoittajille)
 - Co-branding-mahdollisuudet
@@ -292,8 +287,9 @@ AI-mallimme vaativat merkittävää laskentavoimaa:
 2. **Due diligence**: Pääsy täydelliseen dokumentaatioon, koodipohjaan, taloustietoihin
 3. **Term sheet**: Neuvotellaan sijoitusehdot
 4. **Sulkeminen**: Varojen siirto ja kumppanuuden aloitus
-
 **Yhteystiedot:**
+- **Nimi**: Grönmark (Kryptonaatti)
+- **Yritys**: Pinnacore Oy
 - **Sähköposti**: gronmark@pinnacore.ai
 - **Verkkosivusto**: www.pinnacore.ai
 - **GitHub**: https://github.com/Pinnacore-AI/ajatuskumppani
